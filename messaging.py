@@ -4,6 +4,8 @@ import sys
 from datetime import datetime
 from colorama import init, Fore, Back, Style
 
+init(autoreset=True)
+
 class messaging(object):
     ##CAN CHANGE BELOW TO FUNCTIONS IF NEEDED, Will need to build out in main.py
     with open('message.json', 'r') as jsonf:

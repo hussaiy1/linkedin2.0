@@ -11,6 +11,8 @@ from selenium.common.exceptions import ElementNotInteractableException
 from datetime import datetime
 from colorama import init, Fore, Back, Style
 
+init(autoreset=True)
+
 #Define Request Headers
 headers = {
     'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.45 Safari/537.36',
