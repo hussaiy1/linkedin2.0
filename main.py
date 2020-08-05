@@ -19,7 +19,7 @@ headers = {
     'accept': 'application/json, text/javascript, */*; q=0.01'
     }
 
-userAccounts=['Richard.abbott@europa-it-search.com','alidaanyalnaik@hotmail.co.uk', 'roy-khan@hotmail.com', 'aqeel_365@hotmail.com']
+userAccounts=['Accounts go here']
 
 profile=[]
 pending=[]
